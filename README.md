@@ -1,6 +1,5 @@
 ### 最终效果：
-![](https://raw.githubusercontent.com/xiangguaa/FigsBed/master/imgs/CoolRun.jpg)
-
+![](https://raw.githubusercontent.com/xiangguaa/FigsBed/master/imgs/CoolRun.png)
 
 ### 使用语言
 js+python(flask-restful库)+mysql</br>
