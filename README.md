@@ -2,6 +2,8 @@
 ![coolrun_hall.png](https://i.loli.net/2020/02/08/AoVydO95brTEGwQ.png)
 ![coolrun_game.png](https://i.loli.net/2020/02/08/7BevwX4VtN1FZQs.png)
 
+### 使用语言
+js+python(flask-restful库)
 ### LatestChange：
 1、基本架构已经完成，跳跃存在连跳n次的bug，排名未连接数据库。待更新...
 2、加入rankUI，待完善。数据库未建立。
