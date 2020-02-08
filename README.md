@@ -1,5 +1,5 @@
 最终效果：
-[![1RB78K.md.png](https://s2.ax1x.com/2020/02/08/1RB78K.md.png)](https://imgchr.com/i/1RB78K)
+![1RB78K.png](https://s2.ax1x.com/2020/02/08/1RB78K.png)
 
 LatestChange：添加故事情节跳过按钮，添加子弹轨迹
 
