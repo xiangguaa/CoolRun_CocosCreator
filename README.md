@@ -4,6 +4,17 @@
 ### 使用语言
 js+python(flask-restful库)+mysql</br>
 
+### 目录结构说明
+assets:</br>
+  ——>Animation:存放角色动画，部分未使用</br>
+  ——>Audio:存放背景音乐和UI声音</br>
+  ——>DB:存放python写的API，用于与数据库的信息交互</br>
+  ——>Fonts:存放字体文件</br>
+  ——>Prefab:存放预制体，主要是障碍物和子弹</br>
+  ——>Scene:存放场景，主要是HallBaseView主场景，BaseView游戏场景</br>
+  ——>Script:存放脚本</br>
+  ——>Texture:存放图片资源</br>
+  
 ### 注意事项
 链接数据库的API在asset/DB文件夹下,需要修改配置信息，成功链接数据库后运行程序
 
