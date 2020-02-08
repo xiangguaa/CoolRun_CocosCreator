@@ -1,5 +1,5 @@
 最终效果：
-![1RB78K.png](https://s2.ax1x.com/2020/02/08/1RB78K.png)
+![](http://132.232.46.57:8888/images/2020/02/08/hJ0WmP8zNx/coolrun_game.png)
 
 LatestChange：添加故事情节跳过按钮，添加子弹轨迹
 
