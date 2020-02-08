@@ -4,6 +4,7 @@
 
 ### 使用语言
 js+python(flask-restful库)+mysql</br>
+数据库api在asset/DB文件夹下
 ### LatestChange：
 1、基本架构已经完成，跳跃存在连跳n次的bug，排名未连接数据库——2019-10-05</br>
 2、加入rankUI，待完善。数据库未建立——2019-10-07</br>
