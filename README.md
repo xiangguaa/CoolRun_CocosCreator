@@ -1,10 +1,12 @@
 ### 最终效果：
-![coolrun_hall.png](https://i.loli.net/2020/02/08/AoVydO95brTEGwQ.png)
-![coolrun_game.png](https://i.loli.net/2020/02/08/7BevwX4VtN1FZQs.png)
+![](https://raw.githubusercontent.com/xiangguaa/FigsBed/master/imgs/20200208161116.png)
 
 ### 使用语言
 js+python(flask-restful库)+mysql</br>
-数据库api在asset/DB文件夹下
+
+### 注意事项
+链接数据库的API在asset/DB文件夹下,需要修改配置信息，成功链接数据库后运行程序
+
 ### LatestChange：
 1、基本架构已经完成，跳跃存在连跳n次的bug，排名未连接数据库——2019-10-05</br>
 2、加入rankUI，待完善。数据库未建立——2019-10-07</br>
