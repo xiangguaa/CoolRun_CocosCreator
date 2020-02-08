@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "EnemyAttack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 15,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20b36331-ef87-4940-8169-532d0fccfbd7"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "c5af8ec1-1c8a-4b9b-8aac-c1bb142e6ad3"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "6e6bfa38-be02-4565-bf2f-f5a02cc17621"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2899de25-9ed5-4bcd-88db-6b6bbff62ce9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

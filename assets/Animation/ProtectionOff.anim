@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ProtectionOff",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.05,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a4811d4f-4e80-4b46-99cb-cd28290f7a64"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
